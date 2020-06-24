@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D253-A22B
+
+ Directory of C:\Users\BHANUSANGARAJU\Desktop\ProjectGit
+
+24-06-2020  10:13    <DIR>          .
+24-06-2020  10:13    <DIR>          ..
+24-06-2020  10:13                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  135,978,905,600 bytes free
